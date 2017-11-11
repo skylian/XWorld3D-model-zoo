@@ -1,4 +1,4 @@
-# XWorld-model-zoo
+# XWorld3D-model-zoo
 The repository contains a collection of models used by [XWorld3D](https://github.com/PaddlePaddle/XWorld/tree/master/games/xworld3d).
 
 ## models_3d.zip
